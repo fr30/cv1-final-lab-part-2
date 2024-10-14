@@ -1,0 +1,2 @@
+31.88
+{'learning_rate': 0.001, 'optimizer': 'Adam', 'batch_size': 256, 'activation': 'relu', 'norm': True, 'pool': 'avg'}
